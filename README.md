@@ -27,3 +27,13 @@ A console-based game where:
 ## Purpose
 
 To strengthen Python fundamentals and improve algorithmic thinking.
+
+---
+
+## How to Run
+
+1. Make sure Python is installed.
+2. Clone the repository.
+3. Run:
+
+python number_guess_game.py
