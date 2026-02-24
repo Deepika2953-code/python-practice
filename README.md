@@ -36,4 +36,6 @@ To strengthen Python fundamentals and improve algorithmic thinking.
 2. Clone the repository.
 3. Run:
 
+```bash
 python number_guess_game.py
+```
